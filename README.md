@@ -1,5 +1,5 @@
 # ContractManagement
-This Python program pulls data from customized MS word document and summarize that data and outputs into an excel sheet with a GUI. This Python program could also convert .doc file to .docx to accomodate files made from older computers. 
+This Python program pulls data from customized MS word document and summarize that data and outputs into an excel sheet with a GUI. This Python program could also convert .doc file to .docx to accomodate files made from older computers. To use the program, the computer must have MS Word, Excel and the required Python libraries installed
 
 ## Set up the Folder Structure
 Set up a folder in the following structure to use the program.  
